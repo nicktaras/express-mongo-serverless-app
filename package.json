@@ -1,0 +1,24 @@
+{
+  "name": "aws-lambda-and-mongodb-atlas",
+  "version": "1.0.0",
+  "description": "Shows how to connect AWS Lambda to MongoDB Atlas.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.9.16",
+    "serverless-http": "^1.9.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.3.0"
+  }
+}
