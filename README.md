@@ -2,9 +2,7 @@
 
 A simple Serverless boilerplate app for Mongo + Express applications. Happy coding!
 
-If you have any idea's to make this example better to get up and running, please reach out.
-
-Nick
+If you have any idea's to make this starter template better to get up and running, please reach out.
 
 ## reading
 
